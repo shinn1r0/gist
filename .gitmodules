@@ -1,0 +1,6 @@
+[submodule "practice/pytorch_data_util_practice"]
+	path = practice/pytorch_data_util_practice
+	url = https://gist.github.com/shinn1r0/6b1056cd0552cfa89b264b16be46db95
+[submodule "practice/kaggle_train"]
+	path = practice/kaggle_train
+	url = https://gist.github.com/shinn1r0/4845632f2d335326945a55dff8e0446b
